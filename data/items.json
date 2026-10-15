@@ -1,0 +1,189 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": 1,
+      "name": "Von Kaiser",
+      "category": [
+        "Fighters"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Piston Honda",
+      "category": [
+        "Fighters"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Don Flamenco",
+      "category": [
+        "Fighters"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "King Hippo",
+      "category": [
+        "Fighters"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Great Tiger",
+      "category": [
+        "Fighters"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Bald Bull",
+      "category": [
+        "Fighters"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Piston Honda 2",
+      "category": [
+        "Fighters"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Soda Popinski",
+      "category": [
+        "Fighters"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Bald Bull 2",
+      "category": [
+        "Fighters"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Don Flamenco 2",
+      "category": [
+        "Fighters"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mr. Sandman",
+      "category": [
+        "Fighters"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Super Macho Man",
+      "category": [
+        "Fighters"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mike Tyson",
+      "category": [
+        "Fighters"
+      ],
+      "progression": true
+    },
+    {
+      "count": "3",
+      "name": "Star Count Increase",
+      "category": [
+        "Stars/Rounds"
+      ],
+      "progression": true
+    },
+    {
+      "count": "2",
+      "name": "Round Count Increase",
+      "category": [
+        "Stars/Rounds"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Heal Between Rounds Unlock",
+      "category": [
+        "Healing"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Another World Circuit Code Access",
+      "category": [
+        "Codes"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Major Circuit Code Access",
+      "category": [
+        "Codes"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "World Circuit Code Access",
+      "category": [
+        "Codes"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Super Macho Man Code Access",
+      "category": [
+        "Codes"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mike Tyson Code Access",
+      "category": [
+        "Codes"
+      ],
+      "progression": true
+    },
+    {
+      "count": "2",
+      "name": "Busy Signal Code Access",
+      "category": [
+        "Codes"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Credits Code Access",
+      "category": [
+        "Codes"
+      ],
+      "filler": true
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "Glass Joe TKO",
+      "region": "Glass Joe Fight",
+      "category": [
+        "TKOs"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Glass Joe KO",
+      "region": "Glass Joe Fight",
+      "category": [
+        "KOs"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Glass Joe Decision",
+      "region": "Glass Joe Fight",
+      "category": [
+        "Decisions"
+      ],
+      "requires": "|Round Count Increase:2|"
+    },
+    {
+      "name": "Von Kaiser TKO",
+      "region": "Von Kaiser Fight",
+      "category": [
+        "TKOs"
+      ],
+      "requires": "|Von Kaiser|"
+    },
+    {
+      "name": "Von Kaiser KO",
+      "region": "Von Kaiser Fight",
+      "category": [
+        "KOs"
+      ],
+      "requires": "|Von Kaiser| AND |Round Count Increase:1|"
+    },
+    {
+      "name": "Von Kaiser Decision",
+      "region": "Von Kaiser Fight",
+      "category": [
+        "Decisions"
+      ],
+      "requires": "|Von Kaiser| AND |Round Count Increase:2|"
+    },
+    {
+      "name": "Piston Honda TKO",
+      "region": "Piston Honda Fight",
+      "category": [
+        "TKOs"
+      ],
+      "requires": "|Piston Honda|"
+    },
+    {
+      "name": "Piston Honda KO",
+      "region": "Piston Honda Fight",
+      "category": [
+        "KOs"
+      ],
+      "requires": "|Piston Honda| AND |Round Count Increase:1|"
+    },
+    {
+      "region": "Don Flamenco Fight",
+      "name": "Don Flamenco TKO",
+      "category": [
+        "TKOs"
+      ],
+      "requires": "|Don Flamenco| "
+    },
+    {
+      "name": "Don Flamenco KO",
+      "region": "Don Flamenco Fight",
+      "category": [
+        "KOs"
+      ],
+      "requires": "|Don Flamenco|"
+    },
+    {
+      "name": "Don Flamenco Decision",
+      "region": "Don Flamenco Fight",
+      "category": [
+        "Decisions"
+      ],
+      "requires": "|Don Flamenco| AND |Round Count Increase:2|"
+    },
+    {
+      "region": "King Hippo Fight",
+      "name": "King Hippo KO",
+      "category": [
+        "KOs"
+      ],
+      "requires": "|King Hippo|"
+    },
+    {
+      "name": "Great Tiger TKO",
+      "region": "Great Tiger Fight",
+      "category": [
+        "TKOs"
+      ],
+      "requires": "|Great Tiger|"
+    },
+    {
+      "name": "Great Tiger Decision",
+      "region": "Great Tiger Fight",
+      "category": [
+        "Decisions"
+      ],
+      "requires": "|Great Tiger| AND |Round Count Increase:2|"
+    },
+    {
+      "region": "Bald Bull Fight",
+      "name": "Bald Bull TKO",
+      "category": [
+        "TKOs"
+      ],
+      "requires": "|Bald Bull|"
+    },
+    {
+      "region": "Piston Honda 2 Fight",
+      "name": "Piston Honda 2 TKO",
+      "category": [
+        "TKOs"
+      ],
+      "requires": "|Piston Honda 2|"
+    },
+    {
+      "region": "Piston Honda 2 Fight",
+      "name": "Piston Honda 2 KO",
+      "category": [
+        "KOs"
+      ],
+      "requires": "|Piston Honda 2|"
+    },
+    {
+      "name": "Piston Honda 2 Decision",
+      "region": "Piston Honda 2 Fight",
+      "category": [
+        "Decisions"
+      ],
+      "requires": "|Piston Honda 2| AND |Round Count Increase:2|"
+    },
+    {
+      "name": "Soda Popinski TKO",
+      "region": "Soda Popinski Fight",
+      "category": [
+        "TKOs"
+      ],
+      "requires": "|Soda Popinski|"
+    },
+    {
+      "name": "Soda Popinski KO",
+      "region": "Soda Popinski Fight",
+      "category": [
+        "KOs"
+      ],
+      "requires": "|Soda Popinski| AND |Round Count Increase:2|"
+    },
+    {
+      "name": "Soda Popinski Decision",
+      "region": "Soda Popinski Fight",
+      "category": [
+        "Decisions"
+      ],
+      "requires": "|Soda Popinski| AND |Round Count Increase:2|"
+    },
+    {
+      "name": "Bald Bull 2 TKO",
+      "region": "Bald Bull 2 Fight",
+      "category": [
+        "TKOs"
+      ],
+      "requires": "|Bald Bull 2| AND |Star Count Increase:1|"
+    },
+    {
+      "name": "Bald Bull 2 KO",
+      "region": "Bald Bull 2 Fight",
+      "category": [
+        "KOs"
+      ],
+      "requires": "|Bald Bull 2| AND |Round Count Increase:2|"
+    },
+    {
+      "name": "Bald Bull 2 Decision",
+      "region": "Bald Bull 2 Fight",
+      "category": [
+        "Decisions"
+      ],
+      "requires": "|Bald Bull 2| AND |Round Count Increase:2|"
+    },
+    {
+      "name": "Don Flamenco 2 TKO",
+      "region": "Don Flamenco 2 Fight",
+      "category": [
+        "TKOs"
+      ],
+      "requires": "|Don Flamenco 2|"
+    },
+    {
+      "name": "Don Flamenco 2 KO",
+      "region": "Don Flamenco 2 Fight",
+      "category": [
+        "KOs"
+      ],
+      "requires": "|Don Flamenco 2| AND |Round Count Increase:2|"
+    },
+    {
+      "name": "Don Flamenco 2 Decision",
+      "region": "Don Flamenco 2 Fight",
+      "category": [
+        "Decisions"
+      ],
+      "requires": "|Don Flamenco 2| AND |Round Count Increase:2|"
+    },
+    {
+      "name": "Mr. Sandman TKO",
+      "region": "Mr. Sandman Fight",
+      "category": [
+        "TKOs"
+      ],
+      "requires": "|Mr. Sandman|"
+    },
+    {
+      "name": "Mr. Sandman KO",
+      "region": "Mr. Sandman Fight",
+      "category": [
+        "KOs"
+      ],
+      "requires": "|Mr. Sandman| AND |Round Count Increase:2|"
+    },
+    {
+      "name": "Super Macho Man TKO",
+      "region": "Super Macho Man Fight",
+      "category": [
+        "TKOs"
+      ],
+      "requires": "|Super Macho Man|"
+    },
+    {
+      "name": "Super Macho Man KO",
+      "region": "Super Macho Man Fight",
+      "category": [
+        "KOs"
+      ],
+      "requires": "|Super Macho Man| AND |Round Count Increase:1|"
+    },
+    {
+      "name": "Mike Tyson TKO",
+      "victory": true,
+      "region": "Mike Tyson Fight",
+      "category": [
+        "TKOs"
+      ],
+      "requires": "|Mike Tyson|"
+    },
+    {
+      "name": "Mike Tyson KO",
+      "victory": true,
+      "region": "Mike Tyson Fight",
+      "category": [
+        "KOs"
+      ],
+      "requires": "|Mike Tyson| AND |Round Count Increase:2|"
+    },
+    {
+      "name": "Mike Tyson Decision",
+      "victory": true,
+      "region": "Mike Tyson Fight",
+      "category": [
+        "Decisions"
+      ],
+      "requires": "|Mike Tyson| AND |Round Count Increase:2|"
+    }
+  ]
+}
