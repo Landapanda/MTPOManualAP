@@ -3,6 +3,14 @@
   "data": [
     {
       "count": 1,
+      "name": "Glass Joe",
+      "category": [
+        "Fighters"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
       "name": "Von Kaiser",
       "category": [
         "Fighters"

@@ -4,6 +4,7 @@
     "connects_to": [
       "Von Kaiser Fight",
       "Don Flamenco Fight",
+      "King Hippo Fight",
       "Piston Honda 2 Fight",
       "Mike Tyson Fight"
     ],
@@ -20,6 +21,7 @@
     "connects_to": [
       "Don Flamenco Fight",
       "Von Kaiser Fight",
+      "King Hippo Fight",
       "Piston Honda 2 Fight",
       "Mike Tyson Fight"
     ],
@@ -50,7 +52,8 @@
     "connects_to": [
       "Piston Honda 2 Fight",
       "Von Kaiser Fight",
-      "Don Flamenco Fight"
+      "Don Flamenco Fight",
+      "King Hippo Fight"
     ],
     "requires": "|Bald Bull| AND |Great Tiger| AND |Don Flamenco| AND |King Hippo| AND (|Piston Honda| OR |Major Circuit Code Access|)"
   },
