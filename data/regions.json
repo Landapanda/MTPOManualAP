@@ -46,7 +46,7 @@
     "connects_to": [
       "Bald Bull Fight"
     ],
-    "requires": "|Great Tiger| AND |King Hippo| AND |Don Flamenco| AND (|Piston Honda| OR |Major Circuit Code Access|)"
+    "requires": "|Great Tiger| AND (|King Hippo| AND |Don Flamenco| AND (|Piston Honda| OR |Major Circuit Code Access|)) OR (|King Hippo| AND |Another World Circuit Code Access|)"
   },
   "Bald Bull Fight": {
     "connects_to": [
@@ -61,40 +61,40 @@
     "connects_to": [
       "Soda Popinski Fight"
     ],
-    "requires": "|Piston Honda 2| AND ((|Bald Bull| AND |Great Tiger| AND |King Hippo| AND |Don Flamenco|) OR |World Circuit Code Access|)"
+    "requires": "|Piston Honda 2| AND ((|Bald Bull| AND |Great Tiger| AND |King Hippo| AND |Don Flamenco|) OR |World Circuit Code Access| OR (|King Hippo| AND |Great Tiger| AND |Another World Circuit Code Access|))"
   },
   "Soda Popinski Fight": {
     "connects_to": [
       "Bald Bull 2 Fight"
     ],
-    "requires": "|Soda Popinski| AND |Piston Honda 2| AND ((|Bald Bull| AND |Great Tiger| AND |King Hippo| AND |Don Flamenco|) OR |World Circuit Code Access|)"
+    "requires": "|Soda Popinski| AND |Piston Honda 2| AND ((|Bald Bull| AND |Great Tiger| AND |King Hippo| AND |Don Flamenco|) OR |World Circuit Code Access| OR (|King Hippo| AND |Great Tiger| AND |Another World Circuit Code Access|))"
   },
   "Bald Bull 2 Fight": {
     "connects_to": [
       "Don Flamenco 2 Fight"
     ],
-    "requires": "|Bald Bull 2| AND |Soda Popinski| AND |Piston Honda 2| AND |Soda Popinski| AND (|Bald Bull| OR |World Circuit Code Access|)"
+    "requires": "|Bald Bull 2| AND |Soda Popinski| AND |Piston Honda 2| AND (|Bald Bull| OR |World Circuit Code Access| OR (|King Hippo| AND |Great Tiger| AND |Another World Circuit Code Access|))"
   },
   "Don Flamenco 2 Fight": {
     "connects_to": [
       "Mr. Sandman Fight"
     ],
-    "requires": "|Don Flamenco 2| AND ((|Bald Bull 2| AND |Soda Popinski| AND |Piston Honda 2|) OR (|Super Macho Man| AND |Super Macho Man Code Access|)"
+    "requires": "|Don Flamenco 2| AND ((|Bald Bull 2| AND |Soda Popinski| AND |Piston Honda 2|) OR (|Super Macho Man| AND |Super Macho Man Code Access|) OR (|King Hippo| AND |Great Tiger| AND |Piston Honda 2| AND |Soda Popinski| AND |Bald Bull 2| AND |Another World Circuit Code Access|))"
   },
   "Mr. Sandman Fight": {
     "connects_to": [
       "Super Macho Man Fight"
     ],
-    "requires": "|Mr. Sandman| AND |Don Flamenco 2|"
+    "requires": "|Mr. Sandman| AND ((|Don Flamenco 2| AND |Bald Bull 2| AND |Soda Popinski| AND |Piston Honda 2| AND (|Bald Bull| OR |World Circuit Code Access|)) OR (|King Hippo| AND |Great Tiger| AND |Bald Bull| AND |Another World Circuit Code Access|))"
   },
   "Super Macho Man Fight": {
     "connects_to": [
       "Mike Tyson Fight"
     ],
-    "requires": "|Super Macho Man| AND ((|Mr. Sandman| AND |Don Flamenco 2| AND |Bald Bull 2| AND |Soda Popinski| AND |Piston Honda 2| AND (|Bald Bull| OR |World Circuit Code Access|)) OR |Super Macho Man Code Access|)"
+    "requires": "|Super Macho Man| AND ((|Mr. Sandman| AND |Don Flamenco 2| AND |Bald Bull 2| AND |Soda Popinski| AND |Piston Honda 2| AND (|Bald Bull| OR |World Circuit Code Access|)) OR (|King Hippo| AND |Great Tiger| AND |Another World Circuit Code Access|) OR |Super Macho Man Code Access|)"
   },
   "Mike Tyson Fight": {
     "connects_to": [],
-    "requires": "|Mike Tyson| AND ((|Super Macho Man| AND |Super Macho Man Code Access|) OR (|Super Macho Man| AND |Mr. Sandman| AND |Don Flamenco 2| AND |Bald Bull 2| AND |Soda Popinski| AND |Piston Honda 2|) OR |Mike Tyson Code Access|)"
+    "requires": "|Mike Tyson| AND ((|Super Macho Man| AND |Super Macho Man Code Access|) OR (|Super Macho Man| AND |Mr. Sandman| AND |Don Flamenco 2| AND |Bald Bull 2| AND |Soda Popinski| AND |Piston Honda 2| AND (|Bald Bull| OR |World Circuit Code Access|)) OR (|King Hippo| AND |Great Tiger| AND |Another World Circuit Code Access|) OR |Mike Tyson Code Access|)"
   }
 }
